@@ -1,0 +1,20 @@
+{
+  "name": "piazza-lite_backend",
+  "version": "1.0.0",
+  "main": "app.ts",
+  "repository": "git@github.com:benaronow/piazza-lite_backend.git",
+  "author": "benaronow <benaronow227@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "http": "^0.0.1-security",
+    "mongoose": "^8.9.5",
+    "socket.io": "^4.8.1"
+  }
+}
